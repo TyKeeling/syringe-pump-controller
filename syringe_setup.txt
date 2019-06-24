@@ -1,0 +1,27 @@
+Syringe Setup: Initial Parameters
+Parameters are separated by three spaces, i.e. "   "
+
+Number of Syringes: 4
+Units: 2
+(Select 1 for ml & ml/min, 2 for ul & ul/min) 
+
+Names:
+Syr0   Syr1   Syr2   Syr3
+
+Addresses:
+00   08   02   03
+
+Syringe Internal Diameter (mm):
+4.6   4.671   4.60   4.62   4.63
+
+Infuse Rate (ml / min OR ul / min):
+500   500   400   800 
+
+Target Infuse Volume (ml OR ul)
+1000   100   306   1000
+
+Withdrawl Rate (ml / min OR ul / min):
+500   500   600   1000
+
+Target Withdrawl Volume (ml OR ul)
+1000   1000   380   660
